@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CenterTractionButton">
+        <!--        外部背景资源ID-->
+        <attr name="normalExternalBackgroundRes" format="reference" />
+        <!--        内部图片资源ID-->
+        <attr name="normalInsideDrawableRes" format="reference" />
+        <!--        选中状态下的外部背景资源-->
+        <attr name="selectedExternalBackgroundRes" format="reference" />
+        <!--        选中状态下的内部图片资源-->
+        <attr name="selectedInsideDrawableRes" format="reference" />
+    </declare-styleable>
+</resources>
